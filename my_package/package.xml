@@ -3,7 +3,7 @@
 <package format="3">
   <name>my_package</name>
   <version>0.0.0</version>
-  <description>new test package for the quiz due tuesday</description>
+  <description>new test package for the quiz due tuesday. [THIS IS A CHANGE]</description>
   <maintainer email="garme2jj@dukes.jmu.edu">garme2jj</maintainer>
   <license>TODO: License declaration</license>
 
